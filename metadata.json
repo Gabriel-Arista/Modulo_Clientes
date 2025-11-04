@@ -1,0 +1,5 @@
+{
+  "name": "CRM Client Dashboard",
+  "description": "A CRM dashboard interface to manage clients, transport, inventory, and sales, replicating a provided UI design.",
+  "requestFramePermissions": []
+}
